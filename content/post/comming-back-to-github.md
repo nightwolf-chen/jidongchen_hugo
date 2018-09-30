@@ -1,6 +1,8 @@
 ---
 title: "是时候回归Github了"
 date: 2018-09-30T16:12:51+08:00
+categories: [blog]
+tags: [blog]
 draft: false
 ---
 
