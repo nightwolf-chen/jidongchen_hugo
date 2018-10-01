@@ -1,7 +1,8 @@
 ---
-date: 2017-01-20 16:09
+date: 2017-01-20
 status: public
 title: '2017-01-20 Model与View耦合的困境'
+categories: [ios]
 ---
 
     iOS最为熟悉的模式莫过于MVC，我们整天都在写ViewController，View，Model。我想谈一谈自己在项目开发过程对于Model与View耦合问题认识。
@@ -93,5 +94,5 @@ View -> ViewModel -> Model
 ```
 利用这种结构，我前面提到的问题都可以迎刃而解。当更改View的我们只需要改动ViewModel，至于ViewModel里面有什么View不关心，这样给了我们很多灵活性。在MVVM里面UIView/UIViewController都算是View这一层，ViewModel负责View的渲染和各种业务逻辑，这同时也做到了ViewController的瘦身。 MVVM的好处有很多，我这里不展开讨论了。
 
-##总结
+## 总结
 View与Model的紧耦合给我们开发带来了很多困扰，我相信MVVM是一种很好的解耦模式。当View和Model不再耦合，一切都变得开朗了起来，不得不说设计在项目越来越复杂的时候变得非常重要。有时间还是要多总结。

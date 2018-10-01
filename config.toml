@@ -27,21 +27,24 @@ copyright = "Jidong Chen"            # default: author.name ↓        # 默认�
   weight = 10
   identifier = "home"
   url = "/"
+
 [[menu.main]]
   name = "Archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
+
 [[menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
   url = "/categories/"
+
+[[menu.main]]
+  name = "About"
+  weight = 30
+  identifier = "about"
+  url = "/about"
 
 [params]
   version = "3.x"           # Used to give a friendly message when you have an incompatible update
@@ -144,7 +147,7 @@ copyright = "Jidong Chen"            # default: author.name ↓        # 默认�
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "jidongchen93@gmail.com"
+    a-email = "mailto:jidongchen93@gmail.com"
     b-stack-overflow = "https://stackoverflow.com/users/6760442/bruce-chen"
     g-github = "https://github.com/nightwolf-chen"
 

@@ -1,5 +1,8 @@
+---
 Title: iOS The Responder Chain
-Date: 2017-03-04 17:21
+Date: 2017-03-04 
+categories: [ios]
+---
 
   iOS App的事件分发和响应机制是基于Responder Chain模式的。今天我详细的讨论一下iOS里面的Responder Chain。
 

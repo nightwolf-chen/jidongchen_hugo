@@ -1,7 +1,7 @@
 ---
-categories:
+categories: [coding]
 comments: true
-date: 2014-08-21 00:16:00 +0800
+date: 2014-08-21 
 layout: post
 status: public
 title: 'What are the qualities of a good programmer'
