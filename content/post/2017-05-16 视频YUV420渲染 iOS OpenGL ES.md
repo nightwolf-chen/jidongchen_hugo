@@ -5,7 +5,7 @@ title: '视频帧YUV420渲染 iOS OpenGL ES'
 categories: [ios,opengl]
 ---
 
-在前面一篇[播放器原理](http://www.jidongchen.com/post/2017-04-10-ffmpeg-sdl2.0)文章中我主要讨论了一下播放器的主要流程。我在这篇文章中重点谈论一下视频帧的渲染。
+在前面一篇[播放器原理](http://www.jidongchen.com/post/2017-04-10-ffmpeg+sdl2.0)文章中我主要讨论了一下播放器的主要流程。我在这篇文章中重点谈论一下视频帧的渲染。
 
 ## YUV420简介
 想要渲染YUV我们首先简要了解一下YUV这种数据格式。
