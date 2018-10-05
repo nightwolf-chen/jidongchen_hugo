@@ -1,6 +1,6 @@
 [submodule "themes/even"]
 	path = themes/even
-	url = https://github.com/olOwOlo/hugo-theme-even
+	url = https://github.com/nightwolf-chen/hugo-theme-even
 [submodule "public"]
 	path = public
 	url = https://github.com/nightwolf-chen/nightwolf-chen.github.io
