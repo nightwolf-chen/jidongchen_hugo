@@ -13,6 +13,15 @@ git add .
 git commit -m "$msg"
 git push origin master
 
+cd themes/even
+git pull
+git add .
+git commit -m "$msg"
+git push origin master
+
+cd ..
+cd ..
+
 # Build the project.
 hugo -t even # if using a theme, replace with `hugo -t <YOURTHEME>`
 
