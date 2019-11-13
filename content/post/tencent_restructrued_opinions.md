@@ -1,6 +1,8 @@
 ---
-title: "看待老东家腾讯重组"
+title: "老东家腾讯重组"
 date: 2018-10-03T11:12:42+08:00
+categories: [ideas]
+tags: [tencent,comments]
 draft: false
 ---
 
