@@ -1,7 +1,7 @@
 ---
 title: "踏入Facebook"
 date: 2019-11-13T20:22:18Z
-categories: [ideas]
+categories: [facebook]
 tags: [Facebook,career]
 comments: true
 ---
